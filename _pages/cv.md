@@ -68,7 +68,7 @@ _Aug 2021 – present_
 
 **Math Olympiad Tutor**, Star Generation (PT Generasi Bintang Cemerlang), Tangerang  
 _Sep 2023 – Dec 2024_  
-- Instructed students across various grade levels, from elementary to junior high school, in olympiad-level mathematics \textbf{in English}, specifically preparing them for national and international mathematics competitions.
+- Instructed students across various grade levels, from elementary to junior high school, in olympiad-level mathematics **in English**, specifically preparing them for national and international mathematics competitions.
 
 **Head of Department of Competitions**, Star Generation (PT Generasi Bintang Cemerlang), Tangerang  
 _Sep 2024 – Nov 2024_  
