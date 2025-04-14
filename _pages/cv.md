@@ -24,7 +24,7 @@ The .pdf version of my CV can be accessed [here](files/Orlando Ferrari_Mathemati
 _Yogyakarta, Indonesia | Aug 2021 – Jan 2025_
 
 - **GPA**: 4.0/4.0  
-- **Thesis Supervisor**: [Hadrian Andradi](https://acadstaff.ugm.ac.id/andra)  
+- **Thesis Supervisor**: [Hadrian Andradi, Ph.D.](https://acadstaff.ugm.ac.id/andra)  
 - **Thesis Topic**: Essential and Density Topologies on Continuous Domains [[Abstract](https://drive.google.com/file/d/1FrFLZnCZSzcMYGBdr8bAOO4y7TB_Cfep/view?usp=sharing)]
 
 ---
