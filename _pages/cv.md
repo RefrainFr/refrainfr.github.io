@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-# Curriculum Vitae
+# Orlando Ferrari, B.Math.
 
 📍 Yogyakarta, Indonesia  
 📧 [orlandoferrari6@gmail.com](mailto:orlandoferrari6@gmail.com)  
@@ -20,7 +20,7 @@ The .pdf version of my CV can be accessed [here](files/Orlando Ferrari_Mathemati
 
 ## Education
 
-**Gadjah Mada University**, S.Mat. (B.Sc.Math.)  
+**Gadjah Mada University**, S.Mat. (B.Math.)  
 _Yogyakarta, Indonesia | Aug 2021 – Jan 2025_
 
 - **GPA**: 4.0/4.0  
