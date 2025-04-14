@@ -5,6 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+---
 *Website under construction, more contents will be updated (publications, teachings, and detailed information about me) after a few days/weeks.
 ---
 # I'm Orlando Ferrari 👋
