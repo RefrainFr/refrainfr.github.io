@@ -6,14 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-{% include base_path %}
-
-from pathlib import Path
-
-# Define the markdown content
-markdown_content = """
-# Orlando Ferrari
+# Curriculum Vitae
 
 📍 Yogyakarta, Indonesia  
 📧 [orlandoferrari6@gmail.com](mailto:orlandoferrari6@gmail.com)  
