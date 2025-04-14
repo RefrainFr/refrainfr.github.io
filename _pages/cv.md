@@ -32,7 +32,7 @@ _Yogyakarta, Indonesia | Aug 2021 – Jan 2025_
 ## Publications
 
 ### Research Papers
-- Hatmakelana, C.P.L.J., Diyaldin, F.S., **Ferrari, O.**, Wahyuni, S. (2023). *Almost von Neumann Rings and Its Properties". _Submitted to Journal of Mahani Mathematical Research._
+- Hatmakelana, C.P.L.J., Diyaldin, F.S., **Ferrari, O.**, Wahyuni, S. (2023). *Almost von Neumann Rings and Its Properties*. _Submitted to Journal of Mahani Mathematical Research._
 
 ### Books
 - Surodjo, B., Wahyuni, S., Sutopo, Wijayanti, I.E., Susanti, Y., Sutjijana, A., **Ferrari, O.** (2024). [*Logika Matematika dan Himpunan (Mathematical Logic and Set Theory)*](https://deepublishstore.com/produk/buku-logika-matematika/?srsltid=AfmBOoon50xkkbkRRdSxy1cZRwHy8sOMCjcxmoKQBtwR-Scb3WBrmZXP). Deepublish. _(Written in Indonesian)_
@@ -127,6 +127,3 @@ _May 2022 – Jul 2022_
 
 - **Languages**: Bahasa Indonesia (native); English (IELTS 7.5 Overall [C1 Advanced]); Japanese (novice).
 - **Software & Tools**: LaTeX, Microsoft Office, Python
-- **Communication**: Experienced in scientific communication, both oral and written; comfortable with interdisciplinary collaboration
-- **Project Management**: Capable of leading small research projects, mentoring junior students, and managing deadlines efficiently
-"""
