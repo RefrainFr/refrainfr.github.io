@@ -14,7 +14,7 @@ redirect_from:
 
 ---
 
-The .pdf version of my CV can be accessed [here](https://refrainfr.github.io/files/Orlando Ferrari_Mathematics CV.pdf)
+The .pdf version of my CV can be accessed [here](https://refrainfr.github.io/files/Orlando_Ferrari_Mathematics_CV.pdf)
 
 ---
 
