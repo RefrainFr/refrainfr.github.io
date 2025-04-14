@@ -22,7 +22,7 @@ repository               : "refrainfr.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profile Picture.jpg"
+  avatar           : "profile.png"
   name             : "Orlando Ferrari"
   pronouns         : # example: "she/her"  
   bio              : "A currently trying to pursue further education in mathematics"
