@@ -18,7 +18,6 @@ A Fresh Mathematics Graduate (B.Math.) from [Gadjah Mada University](https://ugm
 Prior to my undergraduate years until my 3rd year for my Bachelor's degree, I am focused to math olympiads and it was my main source of interest to mathematics (funfact: I didn't win often before going to uni). My highest achievement at these times was being able to represent Indonesia for the [30th International Mathematics Competition](https://imc-math.org.uk) at Blagoevgrad, Bulgaria.
 
 <img src='/images/IMC_2023.jpg'>
-<img src='/images/ONMIPA_2023.jpg'>
 
 In my final year (7th semester) and as of now I am pursuing other means to love mathematics by striving for its beauty.
 
