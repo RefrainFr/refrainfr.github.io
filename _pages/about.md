@@ -49,7 +49,17 @@ Beside my mathematical interest, I love spending my time enjoying Japanese popul
 ### Why the nickname 'Refrain'?
 - Well... it started out when I was in 10th grade. I was tinkering with my last name. I came out with the name Refrain because I tend to overdo things, sort of being hyperactive at that time. Well, the formulation was changing one of the letters 'r' to 'n' in my last name and making an [anagram](https://en.wikipedia.org/wiki/Anagram) of it. Hence, $$\text{Ferrari} \rightarrow \text{Ferrani} \rightarrow \text{Refrain}$$. The addition 'Fr' is for Ferrari just because.
 
+---
 
+*some things may break me, but I always get back up*
+
+*new perspective gained, from all the pain and stress*
+
+*and when I do come back, I'm stronger than ever before*
+
+*so, kneel down!*
+
+*([It's Going Down Now](https://youtu.be/2KuWjZD6PBA?si=3I-9gf3qJlu3Uiyv) - Azumi Takahashi, Lotus Juice, ATLUS Sound Team)*
 
 
 
