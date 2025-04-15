@@ -51,13 +51,13 @@ Beside my mathematical interest, I love spending my time enjoying Japanese popul
 
 ---
 
-*some things may break me, but I always get back up*
+*Some things may break me but always get back up*
 
-*new perspective gained, from all the pain and stress*
+*New perspective gained from all the pain and stress*
 
-*and when I do come back, I'm stronger than ever before*
+*And when I do come back, I'm stronger than ever before*
 
-*so, kneel down!*
+*So, kneel down!*
 
 *([It's Going Down Now](https://youtu.be/2KuWjZD6PBA?si=3I-9gf3qJlu3Uiyv) - Azumi Takahashi, Lotus Juice, ATLUS Sound Team)*
 
