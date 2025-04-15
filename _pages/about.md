@@ -1,13 +1,37 @@
 ---
 permalink: /
-title: "Halo, Hello, and こんにちわ!"
+title: "Halo, Hello, and こんにちわ! 😁"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-*Website under construction, more contents will be updated (publications, teachings, and detailed information about me) after a few days/weeks.
+<!-- *Website under construction, more contents will be updated (publications, teachings, and detailed information about me) after a few days/weeks. -->
 ---
-# I'm Orlando Ferrari! 😁
+# I'm Orlando Ferrari!
 
-A Fresh Mathematics Graduate (B.Math.) from Gadjah Mada University, achieving a perfect GPA of 4.0/4.0. Currently has research interests in analysis, particularly in **topology & metric spaces, differential equations, and functional analysis**. Furthermore, has over 3.5 years of experience in mathematics education as a tutor.
+<img src='/images/Wisudapic_2025.jpg'>
+A Fresh Mathematics Graduate (B.Math.) from [Gadjah Mada University](https://ugm.ac.id), achieving a perfect GPA of 4.0/4.0. Currently has research interests in analysis, particularly in **topology & metric spaces, differential equations, and functional analysis**. In addition to my mathematical interest, I have over 3.5 years of experience in mathematics education as a tutor.
+
+<img src='/images/DepmatTalk_2023.jpg'>
+
+Prior to my undergraduate years until my 3rd year for my Bachelor's degree, I am focused to math olympiads and it was my main source of interest to mathematics (funfact: I didn't win often before going to uni). My highest achievement at these times was being able to represent Indonesia for the [30th International Mathematics Competition](https://imc-math.org.uk) at Blagoevgrad, Bulgaria.
+
+<img src='/images/IMC_2023.jpg'>
+<img src='/images/ONMIPA_2023.jpg'>
+
+In my final year (7th semester) and as of now I am pursuing other means to love mathematics by striving for its beauty.
+
+<img src='/images/FinalThesis_2025.jpg'>
+
+During the work of my thesis I was captivated by how we can apply mathematical result from one field--which is topology--to another field--that is order structure--which produced an interesting problem which was the content of my thesis. Hence, I am more into learning various topics that somehow may unify to a spectacular result (hopefully).
+
+<img src='/images/MISSIONITS2023.jpg'>
+
+Beside my mathematical interest, I love spending my time enjoying Japanese populer culture (anime, manga, JPops, anime games. Most people should understand what I'm saying right now). At the moment I mostly spend my time playing (Persona Series)[https://persona.atlus.com/series/] games beside preparing for my graduate school. Even though I was engulfed to Persona recently, I just love persona so much that I put it to (graduation speech)[https://www.youtube.com/watch?v=bAUP6c8LL38&t=3160s]. I have a number of games I have bought which you may see in my (Steam Account)[https://steamcommunity.com/id/refrainfrn]. Well... let's hope I will be able to play them all (they are expanding in each sales, haha).
+
+<img src='/images/Comifuro_2024.jpg'>
+
+
+
+
