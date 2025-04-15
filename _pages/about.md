@@ -47,7 +47,7 @@ Beside my mathematical interest, I love spending my time enjoying Japanese popul
 - Nope, my parents are Indonesian and I cannot even pronounce my last name well in Italian (lol).
 
 ### Why the nickname 'Refrain'?
-- Well... it started out when I was in 10th grade. I was tinkering with my last name. I came out with the name Refrain because I tend to overdo things, sort of being hyperactive at that time. Well, the formulation was changing one of the letters 'r' to 'n' in my last name and making an [anagram](https://en.wikipedia.org/wiki/Anagram) of it. Hence, $\text{Ferrari} \rightarrow \text{Ferrani} \rightarrow \text{Refrain}$. The addition 'Fr' is for Ferrari just because.
+- Well... it started out when I was in 10th grade. I was tinkering with my last name. I came out with the name Refrain because I tend to overdo things, sort of being hyperactive at that time. Well, the formulation was changing one of the letters 'r' to 'n' in my last name and making an [anagram](https://en.wikipedia.org/wiki/Anagram) of it. Hence, $$\text{Ferrari} \rightarrow \text{Ferrani} \rightarrow \text{Refrain}$$. The addition 'Fr' is for Ferrari just because.
 
 
 
