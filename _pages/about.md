@@ -27,7 +27,7 @@ During the work of my thesis I was captivated by how we can apply mathematical r
 
 <img src='/images/MISSIONITS2023.jpg'>
 
-Beside my mathematical interest, I love spending my time enjoying Japanese populer culture (anime, manga, JPops, anime games. Most people should understand what I'm saying right now). At the moment I mostly spend my time playing (Persona Series)[https://persona.atlus.com/series/] games beside preparing for my graduate school. Even though I was engulfed to Persona recently, I just love persona so much that I put it to (graduation speech)[https://www.youtube.com/watch?v=bAUP6c8LL38&t=3160s]. I have a number of games I have bought which you may see in my (Steam Account)[https://steamcommunity.com/id/refrainfrn]. Well... let's hope I will be able to play them all (they are expanding in each sales, haha).
+Beside my mathematical interest, I love spending my time enjoying Japanese populer culture (anime, manga, JPops, anime games. Most people should understand what I'm saying right now). At the moment I mostly spend my time playing [Persona Series](https://persona.atlus.com/series/) games beside preparing for my graduate school. Even though I was engulfed to Persona recently, I just love persona so much that I put it to [graduation speech](https://www.youtube.com/watch?v=bAUP6c8LL38&t=3160s). I have a number of games I have bought which you may see in my [Steam Account](https://steamcommunity.com/id/refrainfrn). Well... let's hope I will be able to play them all (they are expanding in each sales, haha).
 
 <img src='/images/Comifuro_2024.jpg'>
 
