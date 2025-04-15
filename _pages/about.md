@@ -36,12 +36,16 @@ Beside my mathematical interest, I love spending my time enjoying Japanese popul
 # FAQ
 ### Why the first name Orlando?
 - My mom liked [Orlando Bloom](https://en.wikipedia.org/wiki/Orlando_Bloom) at the time. It was given so I can be famous like him in the future.
+  
 ### Why the last name Ferrari?
 - My last name was given as a means for me to be "quick", as it is the image of the brand [Ferrari](https://www.ferrari.com/) itself.
+  
 ### Do you like Ferrari, the brand [Ferrari](https://www.ferrari.com/)?
 - Yes, I do. However, I don't follow that much in automotive and sports related to it (F1 and others). I hope someday I will be interested in it.
+  
 ### Are you of Italian descent?
 - Nope, my parents are Indonesian and I cannot even pronounce my last name well in Italian (lol).
+
 ### Why the nickname 'Refrain'?
 - Well... it started out when I was in 10th grade. I was tinkering with my last name. I came out with the name Refrain because I tend to overdo things, sort of being hyperactive at that time. Well, the formulation was changing one of the letters 'r' to 'n' in my last name and making an [anagram](https://en.wikipedia.org/wiki/Anagram) of it. Hence, $\text{Ferrari} \rightarrow \text{Ferrani} \rightarrow \text{Refrain}$. The addition 'Fr' is for Ferrari just because.
 
