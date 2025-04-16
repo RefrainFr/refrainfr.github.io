@@ -23,7 +23,7 @@ In my final year (7th semester) and as of now I am pursuing other means to love 
 
 <img src='/images/FinalThesis_2025.jpg'>
 
-During the work of my thesis, I was captivated by how we can apply mathematical results from one field--which is topology--to another field--that is order structure--which produced an interesting problem which was the content of my thesis. Hence, I am more into learning various topics that somehow may unify to a spectacular result (hopefully).
+During the work of my thesis, I was captivated by how we can apply mathematical results from one field--which is topology--to another field--that is order structure--which produced an interesting problem which was the content of [my thesis](https://etd.repository.ugm.ac.id/penelitian/detail/249432). Hence, I am more into learning various topics that somehow may unify to a spectacular result (hopefully).
 
 <img src='/images/MISSIONITS2023.jpg'>
 
