@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Halo, Hello, and ようこそ! 😁"
+title: "Orlando Ferrari's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
