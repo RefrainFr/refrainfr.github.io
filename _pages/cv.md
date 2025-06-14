@@ -87,7 +87,7 @@ _May 2022 – Jul 2022_
 ## Selected Awards
 - **Scholarship Recipient**, Dato' Low Tuck Kwong Activist Category. (2024)
 - **Outstanding Student Award**, awarding night for outstanding achievements at Gadjah Mada University. (2023)
-- [**Second Prize**](\href{https://www.imc-math.org.uk/?act=results&by=sum&year=2023), 30th International Mathematics Competition for University Students, Blagoevgrad, Bulgaria. (2023)
+- [**Second Prize**](https://www.imc-math.org.uk/?act=results&by=sum&year=2023), 30th International Mathematics Competition for University Students, Blagoevgrad, Bulgaria. (2023)
 - **Gold Medal & Absolute Winner**, National Olympiad of Mathematics and Natural Sciences (ONMIPA), Bandung (2023)  
 - **First Place**, Mathematics ITS Calculus Competition, Surabaya, Indonesia. (2023)
 - **Gold Medal & Best Presenter**, Indonesia Mathematical Analysis Community Calculus Paper Competition, Solo, Indonesia. (2023)
