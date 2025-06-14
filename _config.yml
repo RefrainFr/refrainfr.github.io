@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Ferrari's Page"
+title                    : "Orlando Ferrari's Page"
 title_separator          : "-"
 name                     : &name "Orlando Ferrari"
 description              : &description "On construction"
