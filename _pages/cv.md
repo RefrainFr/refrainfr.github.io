@@ -27,12 +27,13 @@ _Yogyakarta, Indonesia | Aug 2021 – Jan 2025_
 - **Thesis Supervisor**: [Hadrian Andradi, Ph.D.](https://acadstaff.ugm.ac.id/andra)  
 - **Thesis Topic**: [Essential and Density Topologies on Continuous Domains](https://etd.repository.ugm.ac.id/penelitian/detail/249432) [[Abstract](https://drive.google.com/file/d/1FrFLZnCZSzcMYGBdr8bAOO4y7TB_Cfep/view?usp=sharing)] [[Presentation Slides](https://refrainfr.github.io/files/TA2_Presentasi_Orlando_Ferrari.pdf)]
 
-**University of Padova**, Laura Magistrale in Mathematics (M.S.)
-_Padova, Italy | Oct 2025 - Jul 2026_
-**Dauphine-PSL University**, Master Mathématiques et Applications 
+**University of Padova**, Laura Magistrale in Mathematics (M.S.)  
+_Padova, Italy | Oct 2025 - Jul 2026_  
+**Dauphine-PSL University**, Master Mathématiques et Applications  
 _Paris, France | Sep 2026 – Jul 2027 (Expected)_
 
 - Admitted to [MAPPA (Mathematical Analysis and Probability)](https://mappa.math.unipd.it/) Curriculum, a dual-degree Master's program at the University of Padova for the first year (M1) and Dauphine-PSL University for the second year (M2).
+  
 ---
 
 ## Publications
