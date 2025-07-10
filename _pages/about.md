@@ -11,7 +11,7 @@ redirect_from:
 # I'm Orlando Ferrari! (yes, Ferrari is my last name)
 
 <img src='/images/Wisudapic_2025.jpg'>
-A Fresh Mathematics Graduate (B.Math.) from [Gadjah Mada University](https://ugm.ac.id), achieving a perfect GPA of 4.0/4.0. Currently has research interests in analysis, particularly in **topology & metric spaces, differential equations, and functional analysis**. In addition to my mathematical interest, I have over 3.5 years of experience in mathematics education as a tutor.
+A freshman dual-degree math student at the University of Padova and Dauphine-PSL University for the [MAPPA curriculum](https://mappa.math.unipd.it). Currently has research interests in analysis, particularly in **topology & metric spaces, differential equations, and functional analysis**. In addition to my mathematical interest, I have over four years of experience in mathematics education as a tutor.
 
 <img src='/images/DepmatTalk_2023.jpg'>
 
