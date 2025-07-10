@@ -8,7 +8,7 @@ redirect_from:
 ---
 # Orlando Ferrari, B.Math.
 
-📍 Yogyakarta, Indonesia  
+📍 Indonesia  
 📧 [orlandoferrari6@gmail.com](mailto:orlandoferrari6@gmail.com)  
 🔗 [linkedin.com/in/orlando-ferrari](https://linkedin.com/in/orlando-ferrari)
 
@@ -27,6 +27,12 @@ _Yogyakarta, Indonesia | Aug 2021 – Jan 2025_
 - **Thesis Supervisor**: [Hadrian Andradi, Ph.D.](https://acadstaff.ugm.ac.id/andra)  
 - **Thesis Topic**: [Essential and Density Topologies on Continuous Domains](https://etd.repository.ugm.ac.id/penelitian/detail/249432) [[Abstract](https://drive.google.com/file/d/1FrFLZnCZSzcMYGBdr8bAOO4y7TB_Cfep/view?usp=sharing)] [[Presentation Slides](https://refrainfr.github.io/files/TA2_Presentasi_Orlando_Ferrari.pdf)]
 
+**University of Padova**, Laura Magistrale in Mathematics (M.S.)
+_Padova, Italy | Oct 2025 - Jul 2026_
+**Dauphine-PSL University**, Master Mathématiques et Applications 
+_Paris, France | Sep 2026 – Jul 2027 (Expected)_
+
+- Admitted to [MAPPA (Mathematical Analysis and Probability)](https://mappa.math.unipd.it/) Curriculum, a dual-degree Master's program at the University of Padova for the first year (M1) and Dauphine-PSL University for the second year (M2).
 ---
 
 ## Publications
@@ -47,7 +53,7 @@ _Aug 2022 – Jun 2024_
 
 **Drop-in Centre (Ruang METRIK) Tutor**, Gadjah Mada University  
 _Aug 2024 – Dec 2024_  
-- Tutored nearly all compulsory undergraduate mathematics courses, for first-year to third-year students.
+- Tutored nearly all compulsory undergraduate mathematics courses for first-year to third-year students.
 
 ---
 
@@ -85,6 +91,7 @@ _May 2022 – Jul 2022_
 ---
 
 ## Selected Awards
+- **Scholarship Recipient**, Italian Ministry of Foreign Affairs and International Cooperation (MAECI) Scholarship to fund study at the University of Padova. (2025)
 - **Scholarship Recipient**, Dato' Low Tuck Kwong Activist Category. (2024)
 - **Outstanding Student Award**, awarding night for outstanding achievements at Gadjah Mada University. (2023)
 - [**Second Prize**](https://www.imc-math.org.uk/?act=results&by=sum&year=2023), 30th International Mathematics Competition for University Students, Blagoevgrad, Bulgaria. (2023)
