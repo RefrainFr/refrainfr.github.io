@@ -69,7 +69,7 @@ _Feb 2023 – Nov 2023_
 
 ## Professional Work Experiences
 
-**Freelance Math Tutor**, Self-affiliated
+**Freelance Math Tutor**, Self-affiliated  
 _Aug 2021 – present_  
 - Delivered tutorials and consultations, both privately and through contractual agreements with educational institutions, on various mathematical topics, covering school-level mathematics, olympiad preparation, and university-level mathematics.
 
@@ -81,7 +81,7 @@ _Sep 2023 – Dec 2024_
 _Sep 2024 – Nov 2024_  
 - Led a team of over 15 tutors across various competitive fields and successfully managed two significant projects that provided support to more than 200 students within one month. 
 
-**Problem Selection Committee**, LMNas UGM, Yogyakarta
+**Problem Selection Committee**, LMNas UGM, Yogyakarta  
 _Jan 2022 – Dec 2024_  
 - Developed and curated problems utilized in LMNas 33, 34, and 35, a competition that has attracted over 12,000 participants across three years, spanning both Middle School and High School levels. This competition is one of the largest mathematics contests conducted in Indonesia.
 
