@@ -1,3 +1,10 @@
+---
+layout: archive
+permalink: /miscellaneous/
+title: "Miscellaneous"
+author_profile: true
+---
+
 Beside my mathematical interest, I love spending my time enjoying Japanese popular culture (anime, manga, JPops, anime games. Most people should understand what I'm saying right now). At the moment I mostly spend my time playing [Persona Series](https://persona.atlus.com/series/) games besides preparing for my graduate school. Even though I was engulfed to Persona recently, I just love Persona so much that I put it to [my graduation speech](https://www.youtube.com/watch?v=bAUP6c8LL38&t=3160s). I have a number of games I have bought which you may see in my [Steam Account](https://steamcommunity.com/id/refrainfrn). Well... let's hope I will be able to play them all (they are expanding in each sale, haha).
 
 <img src='/images/Comifuro_2024.jpg'>
