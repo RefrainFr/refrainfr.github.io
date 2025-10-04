@@ -1,7 +1,7 @@
 ---
 title: "Solution Notes to ONMIPA-PT 2024 Final (Indonesian)"
 excerpt: "Download directly from [here](https://refrainfr.github.io/files/Pembahasan_ONMIPA_PT_Nasional_2024.pdf)."
-collection: ONMIPA-PT
+collection: projects
 date: 2024-05-16
 ---
 
