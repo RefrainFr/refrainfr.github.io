@@ -69,7 +69,7 @@ $$
 $$
 0=t_0 < t_1 < t_2 < \ldots < t_m=T,
 $$
-    and \(A\), \(B > 0\) (by the fact \(n \ge 3\), we have
+    and \(A\), \(B > 0\) (by the fact \(n \ge 3\)), we have
 $$
 0\le\text{E}[S^n_P] = A\sum_{k=0}^{m-1}(t_{k+1}-t_k)^{\frac{n}{2}} \le A\cdot \|P\|^{\frac{n-2}{2}}\sum_{k=0}^{m-1}(t_{k+1}-t_k)=A\cdot\|P\|^{\frac{n-2}{2}}\cdot T
 $$
