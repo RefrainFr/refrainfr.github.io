@@ -5,7 +5,7 @@ tags:
   - Semester 1 S2 - UNIPD M1 
 date: 2025-11-07
 ---
-Most probability theory students know that when we work on partitions on the interval \([0,T]\), the Wiener process has unbounded absolute variation and finite quadratic variation given by \(T\). Now, we shall make a simple generalization which gave an unsurprising result of \(0\) for the \(n\)-th variation when \(n \ge 3\_!
+Most probability theory students know that when we work on partitions on the interval \([0,T]\), the Wiener process has unbounded absolute variation and finite quadratic variation given by \(T\). Now, we shall make a simple generalization which gave an unsurprising result of \(0\) for the \(n\)-th variation when \(n \ge 3\)!
 
 This exercise comes from my final exam on my Bachelor's course in Stochastic Calculus. Simply speaking, this was an elective course and one of the hardest class available in my school, that is Gadjah Mada University. The simple reason I wrote this article right now since I'm currently taking another similar course in the University of Padova, that is, Stochastic Analysis. As expected, the class is hard, lol. Another reason for that is I was wondering if my argument that I made during the exam was correct (sorry, I'm bad in probability stuffs).
 
