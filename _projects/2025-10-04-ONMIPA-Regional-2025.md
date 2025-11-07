@@ -1,6 +1,6 @@
 ---
 title: "Solution Notes to ONMIPA-PT 2025 Regional (Indonesian)"
-excerpt: "Download directly from [here](https://refrainfr.github.io/files/Pembahasan_ONMIPA_PT_Wilayah_2025.pdf)"
+excerpt: "Download directly from [here](https://refrainfr.github.io/files/Pembahasan_ONMIPA_PT_Wilayah_2025.pdf)."
 collection: projects
 date: 2025-10-04
 ---
