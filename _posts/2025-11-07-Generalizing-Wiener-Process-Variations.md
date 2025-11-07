@@ -16,7 +16,7 @@ Last week, we discussed the first two variations in the Stochastic Analysis clas
 </p>
 # The Problem
 <p align="justify">  
-Let \(W(t)\) be a standard Brownian motion. Compute
+Let \(W(t)\) be a standard Wiener process. Compute
 $$
 \lim_{\|P\|\to 0} \sum_{k=0}^{m-1} (W(t_{k+1}) - W(t_k))^n,
 $$
@@ -43,7 +43,7 @@ $$
 $$
 by utilizing the Taylor expansion of the Moment Generating Function for X to get the desired result.
 
-By the independent increment property of standard Brownian motion we have
+By the independent increment property of the standard Wiener process, we have
 $$\text{Var}(S^n_P) = \sum_{k=0}^{m-1}\text{Var}((W(t_{k+1})-W(t_k))^n)$$
 and by the linearity of expectations
 $$\text{E}[S^n_P] = \sum_{k=0}^{m-1}\text{E}[(W(t_{k+1})-W(t_k))^n].$$
@@ -58,7 +58,7 @@ $$
 \text{E}[(W(t_{k+1})-W(t_k))^{2n}] =
     (2n-1)!!\cdot(t_{k+1}-t_k)^n.
 $$
-    We shall assume \(n\) is even, as for the case of \(n\) odd is simpler. From these results, we also have
+    We shall assume \(n\) is even, as the case of \(n\) odd is simpler. From these results, we also have
 $$
 \begin{aligned}
     \text{Var}((W(t_{k+1})-W(t_k))^n) &= \text{E}[(W(t_{k+1})-W(t_k))^{2n}] - \text{E}[(W(t_{k+1})-W(t_k))^n]^2\\
@@ -91,5 +91,5 @@ $$
 </p>
 ## Slight remark
 <p align="justify">  
-A slight modification of this argument can be used to prove \(S_P^2\xrightarrow{L^2}T\), that is by proving \(\lim_{\|P\|\to 0}\mathrm{E}[(S_P^2-T)^2] = 0\).
+A slight modification of this argument can be used to prove \(S_P^2\xrightarrow{L^2}T\), that is, by proving \(\lim_{\|P\|\to 0}\mathrm{E}[(S_P^2-T)^2] = 0\).
 </p>
