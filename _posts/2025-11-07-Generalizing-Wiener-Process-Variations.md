@@ -14,7 +14,22 @@ Last week, we discussed the two first variations in class and I suddenly remembe
 
 We go to the problem now.
 
-# Soal Setelah UTS
+---
+title: "Generalizing Wiener Process Variations: an attempt to correctly solve my Bachelor's final exam for the course Stochastic Calculus"
+permalink: /posts/2025/11/generalizing-wiener-process-variations/
+tags:
+  - Semester 1 S2 - UNIPD M1 
+date: 2025-11-07
+---
+
+Most probability theory students know that when we work on partitions on the interval $[0,T]$, the Wiener process has unbounded absolute variation and finite quadratic variation given by $T$. Now, we shall make a simple generalization which gave an unsurprising result of $0$ for the $n$-th variation when $n \ge 3$!
+
+This exercise comes from my final exam on my Bachelor's course in Stochastic Calculus. Simply speaking, this was an elective course and one of the hardest class available in my school, that is Gadjah Mada University. The simple reason I wrote this article right now since I'm currently taking another similar course in the University of Padova, that is, Stochastic Analysis. As expected, the class is hard, lol. Another reason for that is I was wondering if my argument that I made during the exam was correct (sorry, I'm bad in probability stuffs).
+
+Last week, we discussed the first two variations in the Stochastic Analysis class, and I suddenly remembered that I had done the same thing before. So yeah, as I haven't tried to update anything on my page lately, let's just try to solve this simple problem. Thank you [the internet](https://math.stackexchange.com/questions/92648/calculation-of-the-n-th-central-moment-of-the-normal-distribution-mathcaln) for providing me such a great identity that I can abuse in the future!
+
+We go to the problem now.
+
 Let $W(t)$ be a standard Wiener process. Compute
 $$
 \lim_{\|P\|\to 0} \sum_{k=0}^{m-1} (W(t_{k+1}) - W(t_k))^n,
@@ -40,7 +55,7 @@ $$
 $$
 by utilizing the Taylor expansion of the Moment Generating Function for X to get the desired result.
 
-By the independent increment property of standard Wiener process we have
+By the independent increment property of the standard Wiener process, we have
 $$\var(S^n_P) = \sum_{k=0}^{m-1}\var((W(t_{k+1})-W(t_k))^n)$$
 and by the linearity of expectations
 $$\E[S^n_P] = \sum_{k=0}^{m-1}\E[(W(t_{k+1})-W(t_k))^n].$$
@@ -55,7 +70,7 @@ $$
 \E[(W(t_{k+1})-W(t_k))^{2n}] =
     (2n-1)!!\cdot(t_{k+1}-t_k)^n.
 $$
-    We shall assume $n$ is even, as for the case of $n$ odd is simpler. From these results, we also have
+    We shall assume $n$ is even, as the case of $n$ odd is simpler. From these results, we also have
 $$
 \begin{align*}
     \var((W(t_{k+1})-W(t_k))^n) &= \E[(W(t_{k+1})-W(t_k))^{2n}] - \E[(W(t_{k+1})-W(t_k))^n]^2\\
@@ -86,4 +101,4 @@ $$
 $$
     in $L^2$ which also implies the limit becomes $0$ in Probability.
 
-**Remark.** A slight modification of this argument can be used to prove $S_P^2\xrightarrow{L^2}T$, that is by proving $\lim_{\|P\|\to 0}\E[(S_P^2-T)^2] = 0 $.
+**Remark.** A slight modification of this argument can be used to prove $S_P^2\xrightarrow{L^2}T$, that is, by proving $\lim_{\|P\|\to 0}\E[(S_P^2-T)^2] = 0 $.
