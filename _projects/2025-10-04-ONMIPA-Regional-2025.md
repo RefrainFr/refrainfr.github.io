@@ -20,3 +20,20 @@ Seperti tahun lalu, pembahasan ini murni dibuat atas dasar "keisengan" dan juga 
 Feel free to repost, ya. Tapi tapi tapi flissss kasih credit aja ke kami uhuhuhu. 😭
 
 Maaf juga kalau solusinya belepotan karena ini ngetiknya buru-buru dengan QC dalam waktu sesingkat-singkatnya WKWKWKWKWK.
+
+<script src="https://giscus.app/client.js"
+        data-repo="RefrainFr/refrainfr.github.io"
+        data-repo-id="R_kgDOOY8AQA"
+        data-category="[ENTER CATEGORY NAME HERE]"
+        data-category-id="[ENTER CATEGORY ID HERE]"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="dark_dimmed"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>

@@ -20,3 +20,20 @@ Banyak hal lucu yang terjadi selama penulisan ini, terutama di kami yang ingin m
 Feel free to repost it, as long masih ada credit untuk tim kami, ya. Jangan dicuri. 🙂
 
 Yap, any suggestions are welcome. (semoga dinotis juri jg hihihi)
+
+<script src="https://giscus.app/client.js"
+        data-repo="RefrainFr/refrainfr.github.io"
+        data-repo-id="R_kgDOOY8AQA"
+        data-category="[ENTER CATEGORY NAME HERE]"
+        data-category-id="[ENTER CATEGORY ID HERE]"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="dark_dimmed"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
