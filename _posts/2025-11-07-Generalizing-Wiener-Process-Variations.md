@@ -93,3 +93,20 @@ $$
 <p align="justify">  
 A slight modification of this argument can be used to prove \(S_P^2\xrightarrow{L^2}T\), that is, by proving \(\lim_{\|P\|\to 0}\mathrm{E}[(S_P^2-T)^2] = 0\).
 </p>
+
+<script src="https://giscus.app/client.js"
+        data-repo="RefrainFr/refrainfr.github.io"
+        data-repo-id="R_kgDOOY8AQA"
+        data-category="[ENTER CATEGORY NAME HERE]"
+        data-category-id="[ENTER CATEGORY ID HERE]"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="dark_dimmed"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
