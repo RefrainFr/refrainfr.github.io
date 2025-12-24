@@ -11,6 +11,7 @@ Most probability theory students know that when we work on partitions on the int
 <p align="justify">  
 This exercise comes from my final exam on my Bachelor's course in Stochastic Calculus. Simply speaking, this was an elective course and one of the hardest class available in my school, that is Gadjah Mada University. The simple reason I wrote this article right now since I'm currently taking another similar course in the University of Padova, that is, Stochastic Analysis. As expected, the class is hard, lol. Another reason for that is I was wondering if my argument that I made during the exam was correct (sorry, I'm bad in probability stuffs).
 </p>
+
 <p align="justify">  
 Last week, we discussed the first two variations in the Stochastic Analysis class, and I suddenly remembered that I had done the same thing before. So yeah, as I haven't tried to update anything on my page lately, let's just try to solve this simple problem. Thank you <a href="https://math.stackexchange.com/questions/92648/calculation-of-the-n-th-central-moment-of-the-normal-distribution-mathcaln">the internet</a> for providing me such a great identity that I can abuse in the future! Let us cook now!
 </p>
