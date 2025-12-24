@@ -4,11 +4,11 @@ date: 2025-12-24
 permalink: /posts/2025/12/to-me-in-few-years-to-come/
 tags:
   - Semester 1 S2 - UNIPD M1
-cover_image: "assets/images/2025-12-24-reze.jpg"
+cover_image: "/assets/images/2025-12-24-reze.jpg"
 summary: "A personal rant on the isolation of academic pursuit and the price of ambition."
 ---
 
-<img src='assets/images/2025-12-24-reze.jpg'>
+<img src='/assets/images/2025-12-24-reze.jpg'>
 A personal rant on the isolation of academic pursuit and the price of ambition.
 
 # Personal Rant: The Cost of Dreaming Big
