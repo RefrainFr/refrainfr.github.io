@@ -7,7 +7,11 @@ tags:
 cover_image: "assets/images/2025-12-24-reze.jpg"
 summary: "A personal rant on the isolation of academic pursuit and the price of ambition."
 ---
- # Personal Rant: The Cost of Dreaming Big
+
+<img src='assets/images/2025-12-24-reze.jpg'>
+A personal rant on the isolation of academic pursuit and the price of ambition.
+
+# Personal Rant: The Cost of Dreaming Big
 
 Dear myself in few years to come.
 
@@ -64,8 +68,8 @@ Saya yakin bakal sepadan aja semua cobaan ini, tapi memang saya sekarang lagi ma
 <script src="https://giscus.app/client.js"
         data-repo="RefrainFr/refrainfr.github.io"
         data-repo-id="R_kgDOOY8AQA"
-        data-category="[ENTER CATEGORY NAME HERE]"
-        data-category-id="[ENTER CATEGORY ID HERE]"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOOY8AQM4CpDpE"
         data-mapping="pathname"
         data-strict="0"
         data-reactions-enabled="1"
