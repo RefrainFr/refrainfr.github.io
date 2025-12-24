@@ -5,7 +5,7 @@ permalink: /posts/2025/12/to-me-in-few-years-to-come/
 tags:
   - Semester 1 S2 - UNIPD M1
 cover_image: "/assets/images/2025-12-24-reze.jpg"
-summary: "A personal rant on the isolation of academic pursuit and the price of ambition."
+description: "Refleksi jujur tentang harga sebuah mimpi besar: perjuangan S2 di UNIPD, kesepian di tengah prestasi, dan realita 'berproses' sendirian di usia 20an."
 ---
 
 <img src='/assets/images/2025-12-24-reze.jpg'>
@@ -13,7 +13,7 @@ A personal rant on the isolation of academic pursuit and the price of ambition.
 
 # Personal Rant: The Cost of Dreaming Big
 
-Dear myself in few years to come.
+Dear me, in a few years to come.
 
 Personal rant seputar hidup saya yang ternyata gak mudah-mudah amat, tapi saya emang gila aja makanya bisa lewat semua cobaan.
 
