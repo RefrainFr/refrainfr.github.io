@@ -8,8 +8,8 @@ cover_image: "https://refrainfr.github.io/assets/images/2025-12-24-reze.jpg"
 description: "Refleksi jujur tentang harga sebuah mimpi besar: perjuangan S2 di UNIPD, kesepian di tengah prestasi, dan realita 'berproses' sendirian di usia 20an."
 ---
 
-<img src='/assets/images/2025-12-24-reze.jpg'>
-A personal rant on the isolation of academic pursuit and the price of ambition.
+<img src='/assets/images/2025-12-24-reze.jpg' style="width:60%; display:block; margin:0 0 1rem 0;">
+A personal rant on the isolation of academic pursuit and the price of ambition. An honest reflection of a big dream: perjuangan S2 di UNIPD, kesepian di tengah prestasi, dan realita 'berproses' sendirian di usia 20an.
 
 # Personal Rant: The Cost of Dreaming Big
 
