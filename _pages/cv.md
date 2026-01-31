@@ -9,7 +9,7 @@ redirect_from:
 # Orlando Ferrari, B.Math.
 
 📍 Indonesia  
-📧 [orlandoferrari6@gmail.com](mailto:orlandoferrari6@gmail.com)  
+📧 [orlando.ferrari@studenti.unipd.it](mailto:orlando.ferrari@studenti.unipd.it)  
 🔗 [linkedin.com/in/orlando-ferrari](https://linkedin.com/in/orlando-ferrari)
 
 ---
