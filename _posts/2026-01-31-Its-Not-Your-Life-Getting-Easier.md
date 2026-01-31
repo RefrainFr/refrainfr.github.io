@@ -9,7 +9,6 @@ description: "I’ve spent years feeling like a fraud in mathematics, attributin
 ---
 
 <img src='/assets/images/2026-01-31-mahoraga-adapting.jpg' style="width:100%; display:block; margin:0 0 1rem 0;">
-alt='Mahoraga from Jujutsu Kaisen, a large humanoid creature with multiple eyes and a cracked, otherworldly appearance, shown in a state of adaptation or transformation. The character embodies themes of growth through struggle and resilience, reflecting the articles message about becoming stronger through learning rather than circumstances changing.'
 **TL;DR:** I’ve spent years feeling like a fraud in mathematics, attributing my successes to luck or "easy" problems. But after reflecting on my rigorous Master's at UNIPD, I realized the truth: I’m not a genius, I’m just a relentless learner. The exams didn't get easier—I just got stronger.
 
 # It's not your life getting easier, it's just you getting better.
