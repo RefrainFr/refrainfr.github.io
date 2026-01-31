@@ -41,11 +41,13 @@ I cannot lie; I am truly grateful that at the moment this article is being writt
 
 Yes. I thought the exam problems I solved were the "obvious" ones again. Until I realized...
 
-**I STRUGGLED A LOT when I was attending the lectures.** Especially the first 10 lectures of each class.
+<p><strong>I STRUGGLED A LOT when I was attending the lectures.</strong> Especially the first 10 lectures of each class.</p>
 
-* In **Functions Theory**, I was not fluent with measure theory, Lebesgue integration, space of smooth functions with compact support, integration in \(\mathbb{R}^n\), and many more. But... at the end of the semester, I achieved *30/30 cum laude*.
-* In **Stochastic Analysis**, I didn't understand the slightest bit of what the professor was explaining when the first lecture happened. I even admitted to the professor after class that I needed more references just to keep up. At the end of the semester, I passed the written test with *30/30*. Hopefully, after the oral test, it can go even higher.
-* In **Functional Analysis**, I felt lucky I did plenty of work in point-set topology and I self-studied the topic a lot before coming to UNIPD. I thought the class was a breeze for everyone because I felt that way. Yes, I got *30/30 cum laude*. However... the grade distribution of my class was quite terrible.
+<ul>
+  <li>In <strong>Functions Theory</strong>, I was not fluent with measure theory, Lebesgue integration, space of smooth functions with compact support, integration in \(\mathbb{R}^n\), and many more. But... at the end of the semester, I achieved <em>30/30 cum laude</em>.</li>
+  <li>In <strong>Stochastic Analysis</strong>, I didn't understand the slightest bit of what the professor was explaining when the first lecture happened. I even admitted to the professor after class that I needed more references just to keep up. At the end of the semester, I passed the written test with <em>30/30</em>. Hopefully, after the oral test, it can go even higher.</li>
+  <li>In <strong>Functional Analysis</strong>, I felt lucky I did plenty of work in point-set topology and I self-studied the topic a lot before coming to UNIPD. I thought the class was a breeze for everyone because I felt that way. Yes, I got <em>30/30 cum laude</em>. However... the grade distribution of my class was quite terrible.</li>
+</ul>
 
 For all of these exams, I felt that they were "easy" and I thought these grades were a giveaway.
 
