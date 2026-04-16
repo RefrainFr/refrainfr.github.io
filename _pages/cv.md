@@ -25,11 +25,11 @@ _Yogyakarta, Indonesia | Aug 2021 – Jan 2025_
 
 - **GPA**: 4.0/4.0  
 - **Thesis Supervisor**: [Hadrian Andradi, Ph.D.](https://acadstaff.ugm.ac.id/andra)  
-- **Thesis Topic**: [Essential and Density Topologies on Continuous Domains](https://etd.repository.ugm.ac.id/penelitian/detail/249432) [[Abstract](https://drive.google.com/file/d/1FrFLZnCZSzcMYGBdr8bAOO4y7TB_Cfep/view?usp=sharing)] [[Presentation Slides](https://refrainfr.github.io/files/TA2_Presentasi_Orlando_Ferrari.pdf)]
+- **Thesis Topic**: [Essential and Density Topologies on Continuous Domains](https://etd.repository.ugm.ac.id/penelitian/detail/249432) [[Abstract](https://etd.repository.ugm.ac.id/home/detail_pencarian_downloadfiles/1461103)] [[Presentation Slides](https://refrainfr.github.io/files/TA2_Presentasi_Orlando_Ferrari.pdf)]
 
 **University of Padova**, Laurea Magistrale in Mathematics (M.S.)  
 _Padova, Italy | Oct 2025 - Jul 2026_  
-**Dauphine-PSL University**, Master en Mathématiques et Applications (M.S.)  
+**Dauphine-PSL Paris University**, Master en Mathématiques et Applications (M.S.)  
 _Paris, France | Sep 2026 – Jul 2027 (Expected)_
 
 - Admitted to [MAPPA (Mathematical Analysis and Probability)](https://mappa.math.unipd.it/) Curriculum, a dual-degree Master's program at the University of Padova for the first year (M1) and Dauphine-PSL University for the second year (M2).
@@ -92,7 +92,8 @@ _May 2022 – Jul 2022_
 ---
 
 ## Selected Awards
-- **Scholarship Recipient**, Italian Ministry of Foreign Affairs and International Cooperation (MAECI) Scholarship to fund study at the University of Padova. (2025)
+- **Scholarship Recipient**, France Eiffel Excellence Scholarship to fund M2 study at the Dauphine-PSL Paris University. (2026-2027)
+- **Scholarship Recipient**, Italian Ministry of Foreign Affairs and International Cooperation (MAECI) Scholarship to fund M1 study at the University of Padova. (2025-2026)
 - **Scholarship Recipient**, Dato' Low Tuck Kwong Activist Category. (2024)
 - **Outstanding Student Award**, awarding night for outstanding achievements at Gadjah Mada University. (2023)
 - [**Second Prize**](https://www.imc-math.org.uk/?act=results&by=sum&year=2023), 30th International Mathematics Competition for University Students, Blagoevgrad, Bulgaria. (2023)
@@ -126,8 +127,8 @@ _May 2022 – Jul 2022_
 - Guest Speaker, LMNas UGM Talkshow for parents & teachers (2024)  
 - Guest Speaker, [**Math UGM Podcast**](https://www.youtube.com/watch?v=SWYC8bLL5OA) (2024)  
 - Guest Speaker, "Graphing New Beginning" Talkshow, Math UGM (2023)
-- Featured in Article, [**Gadjah Mada University**](https://ugm.ac.id/id/berita/pernah-raih-medali-di-olimpiade-matematika-internasional-orlando-ferrari-lulus-s1-ugm-dengan-ipk-4). (2025)
-- Featured in Article, [**Pusat Prestasi Nasional**](https://pusatprestasinasional.kemdikbud.go.id/wara-wara/detail/lejitan-prestasi-orlando-ferrari-raih-emas-dan-nilai-terting...)
+- Featured in Article, [**Gadjah Mada University**](https://ugm.ac.id/en/news/international-math-olympiad-silver-winner-orlando-ferrari-graduates-from-ugm-with-perfect-gpa/). (2025)
+- Featured in Article, [**Pusat Prestasi Nasional**](https://pusatprestasinasional.kemendikdasmen.go.id/wara-wara/detail/lejitan-prestasi-orlando-ferrari-raih-emas-dan-nilai-tertinggi-onmipa-pt-hingga-ikut-kompetisi-matematika-internasional-2024-dikti) (2024)
 
 ---
 
