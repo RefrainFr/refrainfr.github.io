@@ -8,9 +8,9 @@ cover_image: "https://refrainfr.github.io/assets/images/20260405_high_cortisol_L
 ---
 
 <img src='/assets/images/20260405_high_cortisol_L_infinity_solution.jpg' style="width:100%; display:block; margin:0 0 1rem 0;">
-Featuring a high cortisol graph for solving Monge problem in the \(L^\infty\) case.
+<div>Featuring a high cortisol graph for solving Monge problem in the \(L^\infty\) case.</div>
 
-Download directly from [here](http://refrainfr.github.io/files/A_Primer_on_Optimal_Mass_Transportation_and_the_Supremal_Monge_Problem_v1.2.pdf).
+Download directly from [here [Click Here!!]](http://refrainfr.github.io/files/A_Primer_on_Optimal_Mass_Transportation_and_the_Supremal_Monge_Problem_v1.2.pdf).
 
 Presentation slide coming soon!
 
@@ -30,9 +30,9 @@ Below here are the archives of miscellaneous items. It will be updated as time g
 <img src='/assets/images/20260405_Proof_of_Signature.jpeg' style="width:100%; display:block; margin:0 0 1rem 0;">
 Proof of Alessio Figalli signing this report. Credits: Jacopo Lisciandra.
 
-Special thanks to:
+**Special thanks to:**
 <img src='/assets/images/20260425_Mei_Kinosaki_ED1.png' style="width:100%; display:block; margin:0 0 1rem 0;">
-Can't believe the best girl this season (Spring 2026) is actually a guy. I chose him as a header since the [ending theme](https://youtu.be/R6_SOvEnj8M?si=Vhb_cXhQid--4vZZ) of the anime is stuck in my head the whole time I'm writing this report.
+Can't believe the best girl this season (Spring 2026) is actually a guy. Thank you as well to Akasaki since your [ending theme](https://youtu.be/R6_SOvEnj8M?si=Vhb_cXhQid--4vZZ) for [the anime](https://www.marriagetoxin-anime.com/en/) is stuck in my head the whole time I'm writing this report.
 
 <script src="https://giscus.app/client.js"
         data-repo="RefrainFr/refrainfr.github.io"
