@@ -11,7 +11,7 @@ redirect_from:
 # I'm Orlando Ferrari! (Yes, Ferrari is my last name)
 
 <img src='/images/Wisudapic_2025.jpg'>
-A freshman dual-degree Master's math student at the University of Padova and Dauphine-PSL University for the [MAPPA curriculum](https://mappa.math.unipd.it). Currently has research interests in analysis, particularly in **topology & metric spaces, differential equations, and functional analysis**. In addition to my mathematical interest, I have over four years of experience in mathematics education as a tutor.
+A freshman dual-degree Master's math student at the University of Padova and Dauphine-PSL University for the [MAPPA curriculum](https://mappa.math.unipd.it). Currently has research interests in analysis, particularly in **differential equations, functional analysis, calculus of variations, and measure theory**. In addition to my mathematical interest, I have over four years of experience in mathematics education as a tutor.
 
 {% assign all_content = site.posts %}
 
@@ -67,8 +67,6 @@ A freshman dual-degree Master's math student at the University of Padova and Dau
     {% endfor %}
   </ul>
 </section>
-
-<hr style="opacity: 0.5; margin: 2em 0; border-top: 2px solid #ccc;">
 
 <hr style="opacity: 0.5; margin: 2em 0; border-top: 2px solid #ccc;">
 
