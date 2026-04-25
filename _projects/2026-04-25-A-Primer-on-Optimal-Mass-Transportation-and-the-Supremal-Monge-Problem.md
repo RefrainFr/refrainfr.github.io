@@ -23,7 +23,7 @@ Within this project, I'm thankful for the mentorship and support from:
 * **[Prof. Elio Marconi](https://sites.google.com/view/eliomarconi/)** for his thorough mentorship and patience in guiding me through these "baby steps".
 * **[Prof. Marco Alessandro Cirant](https://sites.google.com/site/marcocirant/)** for his recommendation on contacting Prof. Elio for this project.
 * **My MAPPA Colleagues + Jacopo + (ALGANT Colleagues!)** for your support and acceptance. Thank you as well for the epic photograph!
-* **[Prof. Alessio Figalli](https://people.math.ethz.ch/~afigalli/)** for being willing to give your signature to my project. Thank you as well for your short advice. I will do what I love and I hope someday you will check this page! It is an honor for a [Fields Medalist](https://en.wikipedia.org/wiki/Fields_Medal) to sign this project!
+* **[Prof. Alessio Figalli](https://people.math.ethz.ch/~afigalli/)** for being willing to give your signature to my project. Thank you as well for your short advice. I will do what I love and I hope someday you will check this page! It is an honor for a [Fields Medalist](https://en.wikipedia.org/wiki/Fields_Medal) to sign this project, especially since his work is into optimal transport as well!
 
 Below here are the archives of miscellaneous items. It will be updated as time goes on!
 
