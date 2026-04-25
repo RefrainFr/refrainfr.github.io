@@ -34,21 +34,25 @@ A freshman dual-degree Master's math student at the University of Padova and Dau
 
 <section class="recent-posts">
   <h2>Latest Updates</h2>
-  <ul>
+  <ul style="list-style-type: none; padding-left: 0;">
     {% for item in sorted_content limit:3 %}
-      <li>
+      <li style="margin-bottom: 1.5em;">
         <span class="post-meta">
           {{ item.date | date: "%B %d, %Y" }} 
           <strong style="text-transform: uppercase; font-size: 0.85em; opacity: 0.7;">
             [{{ item.collection }}]
           </strong>
         </span>
-        <h3>
+        <h3 style="margin-top: 0.5em; margin-bottom: 0.5em;">
           <a class="post-link" href="{{ item.url | relative_url }}">{{ item.title }}</a>
         </h3>
         {% if item.description %}
-          <p>{{ item.description }}</p>
+          <p style="margin-top: 0;">{{ item.description }}</p>
         {% endif %}
+
+        {% unless forloop.last %}
+          <hr style="opacity: 0.2; margin: 1.5em 0;">
+        {% endunless %}
       </li>
     {% endfor %}
   </ul>

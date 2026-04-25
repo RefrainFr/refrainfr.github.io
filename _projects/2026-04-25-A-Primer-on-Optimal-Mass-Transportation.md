@@ -3,6 +3,7 @@ title: "Seminar Activity Project: A Primer on Optimal Mass Transportation (Engli
 excerpt: "Download directly from [here](http://refrainfr.github.io/files/A_Primer_on_Optimal_Transport_v1.2.pdf). Presentation slide coming soon!"
 collection: projects
 date: 2026-04-25
+description: "My most recent draft for my Seminar Activity course has been updated! It concerned the basic notions of optimal transport. The reader is supposed to have been familiar with measure theory and some convex analysis."
 ---
 
 Download directly from [here](http://refrainfr.github.io/files/A_Primer_on_Optimal_Transport_v1.2.pdf).
