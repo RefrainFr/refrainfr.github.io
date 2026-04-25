@@ -32,31 +32,45 @@ A freshman dual-degree Master's math student at the University of Padova and Dau
 
 {% assign sorted_content = all_content | sort: 'date' | reverse %}
 
+<hr style="opacity: 0.5; margin: 2em 0; border-top: 2px solid #ccc;">
+
 <section class="recent-posts">
-  <h2>Latest Updates</h2>
+  <h2 style="margin-top: 0;">Latest Updates</h2>
+  
   <ul style="list-style-type: none; padding-left: 0;">
+    
     {% for item in sorted_content limit:3 %}
       <li style="margin-bottom: 1.5em;">
+        
         <span class="post-meta">
           {{ item.date | date: "%B %d, %Y" }} 
           <strong style="text-transform: uppercase; font-size: 0.85em; opacity: 0.7;">
             [{{ item.collection }}]
           </strong>
         </span>
+        
         <h3 style="margin-top: 0.5em; margin-bottom: 0.5em;">
           <a class="post-link" href="{{ item.url | relative_url }}">{{ item.title }}</a>
         </h3>
+        
         {% if item.description %}
-          <p style="margin-top: 0;">{{ item.description }}</p>
+          <div style="margin-top: 0; font-size: 0.95em;">
+            {{ item.description | markdownify }}
+          </div>
         {% endif %}
 
         {% unless forloop.last %}
           <hr style="opacity: 0.2; margin: 1.5em 0;">
         {% endunless %}
+        
       </li>
     {% endfor %}
   </ul>
 </section>
+
+<hr style="opacity: 0.5; margin: 2em 0; border-top: 2px solid #ccc;">
+
+<hr style="opacity: 0.5; margin: 2em 0; border-top: 2px solid #ccc;">
 
 <img src='/images/IMC_2023.jpg'>
 
