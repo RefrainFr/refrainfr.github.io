@@ -13,6 +13,47 @@ redirect_from:
 <img src='/images/Wisudapic_2025.jpg'>
 A freshman dual-degree Master's math student at the University of Padova and Dauphine-PSL University for the [MAPPA curriculum](https://mappa.math.unipd.it). Currently has research interests in analysis, particularly in **topology & metric spaces, differential equations, and functional analysis**. In addition to my mathematical interest, I have over four years of experience in mathematics education as a tutor.
 
+{% assign all_content = site.posts %}
+
+{% if site.projects %}
+  {% assign all_content = all_content | concat: site.projects %}
+{% endif %}
+
+{% if site.talks %}
+  {% assign all_content = all_content | concat: site.talks %}
+{% endif %}
+
+{% if site.papers %}
+  {% assign all_content = all_content | concat: site.papers %}
+{% endif %}
+{% if site.teaching %}
+  {% assign all_content = all_content | concat: site.teaching %}
+{% endif %}
+
+{% assign sorted_content = all_content | sort: 'date' | reverse %}
+
+<section class="recent-posts">
+  <h2>Latest Updates</h2>
+  <ul>
+    {% for item in sorted_content limit:3 %}
+      <li>
+        <span class="post-meta">
+          {{ item.date | date: "%B %d, %Y" }} 
+          <strong style="text-transform: uppercase; font-size: 0.85em; opacity: 0.7;">
+            [{{ item.collection }}]
+          </strong>
+        </span>
+        <h3>
+          <a class="post-link" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+        </h3>
+        {% if item.description %}
+          <p>{{ item.description }}</p>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+</section>
+
 <img src='/images/IMC_2023.jpg'>
 
 Prior to my undergraduate years until my 3rd year for my Bachelor's degree, I am focused to math olympiads, and it was my main source of interest to mathematics (funfact: I didn't win often before going to uni). My highest achievement at this time was being able to represent Indonesia for the [30th International Mathematics Competition](https://imc-math.org.uk) at Blagoevgrad, Bulgaria.
