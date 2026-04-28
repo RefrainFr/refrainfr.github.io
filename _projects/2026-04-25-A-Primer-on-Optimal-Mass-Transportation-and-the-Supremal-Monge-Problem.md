@@ -10,12 +10,12 @@ cover_image: "https://refrainfr.github.io/assets/images/20260405_high_cortisol_L
 <img src='/assets/images/20260405_high_cortisol_L_infinity_solution.jpg' style="width:100%; display:block; margin:0 0 1rem 0;">
 <div>Featuring a high cortisol graph for solving Monge problem in the \(L^\infty\) case.</div>
 
-Download directly from [here [Click Here!!]](http://refrainfr.github.io/files/A_Primer_on_Optimal_Mass_Transportation_and_the_Supremal_Monge_Problem_v1.2.pdf).
+Download directly from [here [version 20260429]](http://refrainfr.github.io/files/A_Primer_on_Optimal_Mass_Transportation_and_the_Supremal_Monge_Problem_v1.3.pdf).
 
 Presentation slide coming soon!
 
 <div style="text-align: justify; margin-bottom: 1rem;">
-This seminar explores the foundational concepts and central existence results in the theory of optimal transport. Starting from the intuitive but mathematically restrictive Monge problem, we transition to the Kantorovich relaxation, leveraging weak topologies and Prokhorov's theorem to guarantee the existence of optimal transport plans. By systematically constructing the dual problem and applying tools from convex analysis—specifically \(c\)-transforms and \(c\)-cyclical monotonicity—we rigorously establish strong duality. Utilizing this primal-dual framework, we demonstrate the existence and uniqueness of optimal transport maps for strictly convex costs, culminating in Brenier's Theorem for the quadratic cost in \(\mathbb{R}^d\). Finally, we explore the measure-theoretic stability of optimal plans and resolve the supremal (\(L^\infty\)) optimal transport problem. To tackle the supremal case, we consider a secondary variational problem, rigorously proving that its optimal solution is uniquely induced by a transport map \(T\).
+This seminar explores foundational concepts and central existence results in optimal transport theory. We transition from the intuitive but restrictive Monge problem to the Kantorovich relaxation, leveraging weak topologies and Prokhorov's theorem to guarantee the existence of optimal plans. By constructing the dual problem and applying tools from convex analysis—specifically \(c\)-transforms and \(c\)-cyclical monotonicity—we establish strong duality. This primal-dual framework allows us to demonstrate the existence and uniqueness of optimal maps for strictly convex costs, culminating in Brenier's Theorem in \(\mathbb{R}^d\). Finally, we address measure-theoretic stability (if time permits) and resolve the supremal (\(L^\infty\)) optimal transport problem, rigorously proving that a secondary variational problem selects a unique optimal solution induced by a transport map.
 </div>
 
 Within this project, I'm thankful for the mentorship and support from:
@@ -26,6 +26,8 @@ Within this project, I'm thankful for the mentorship and support from:
 * **[Prof. Alessio Figalli](https://people.math.ethz.ch/~afigalli/)** for being willing to give your signature to my project. Thank you as well for your short advice. I will do what I love and I hope someday you will check this page! It is an honor for a [Fields Medalist](https://en.wikipedia.org/wiki/Fields_Medal) to sign this project, especially since his work is into optimal transport as well!
 
 Below here are the archives of miscellaneous items. It will be updated as time goes on!
+* **Update 2026/04/25**: First public version of the manuscript. Feedbacks are welcome!
+* **Update 2026/04/29**: Added motivation to the Monge Problem in page 1 (now [67](https://en.wikipedia.org/wiki/6-7) pages!), added bold on new definitions, fixed slight grammar error, added a remark for another notation of pushforward measure after we defined it, optimized filed size by compressing the scanned preface page, slight overhaul on abstract.
 
 <img src='/assets/images/20260405_Proof_of_Signature.jpeg' style="width:100%; display:block; margin:0 0 1rem 0;">
 Proof of Alessio Figalli signing this report. Credits: Jacopo Lisciandra.
