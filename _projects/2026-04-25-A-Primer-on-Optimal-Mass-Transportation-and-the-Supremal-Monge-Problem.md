@@ -1,6 +1,10 @@
 ---
 title: "Seminar Activity Project: A Primer on Optimal Mass Transportation and the Supremal Monge Problem (English)"
+<<<<<<< HEAD
 excerpt: "Download directly from [here [version 20260502]](http://refrainfr.github.io/files/A_Primer_on_Optimal_Mass_Transportation_and_the_Supremal_Monge_Problem_v1.4.pdf). Presentation slide coming soon!"
+=======
+excerpt: "Download directly from [here](http://refrainfr.github.io/files/A_Primer_on_Optimal_Mass_Transportation_and_the_Supremal_Monge_Problem_v1.3.pdf). Presentation slide coming soon!"
+>>>>>>> 1ac01f26467c25535164b60d96be9d0e1d77e045
 collection: projects
 date: 2026-04-25
 description: "My most recent draft for my Seminar Activity course has been updated! It concerned the basic notions of optimal transport. The reader is supposed to have been familiar with measure theory and some convex analysis."
@@ -17,7 +21,7 @@ Presentation slide coming soon!
 Submitted abstract for the presentation can be downloaded [here](http://refrainfr.github.io/files/20260506-Orlando_Ferrari-Seminar_Abstract.pdf). I suggest the reader to check lists of UNIPD master students' seminars in [the following link](https://corsi.math.unipd.it/seminariostudenti/)
 
 <div style="text-align: justify; margin-bottom: 1rem;">
-This seminar explores foundational concepts and central existence results in optimal transport theory. We transition from the intuitive but restrictive Monge problem to the Kantorovich relaxation, leveraging weak topologies and Prokhorov's theorem to guarantee the existence of optimal plans. By constructing the dual problem and applying tools from convex analysis—specifically \(c\)-transforms and \(c\)-cyclical monotonicity—we establish strong duality. This primal-dual framework allows us to demonstrate the existence and uniqueness of optimal maps for strictly convex costs, culminating in Brenier's Theorem in \(\mathbb{R}^d\). Finally, we address measure-theoretic stability (if time permits) and resolve the supremal (\(L^\infty\)) optimal transport problem, rigorously proving that a secondary variational problem selects a unique optimal solution induced by a transport map.
+This seminar explores foundational concepts and central existence results in optimal transport theory. We transition from the intuitive but restrictive Monge problem to the Kantorovich relaxation, leveraging direct methods of calculus of variations to guarantee the existence of optimal plans. By constructing the dual problem and applying tools from convex analysis—specifically \(c\)-transforms and \(c\)-cyclical monotonicity—we establish strong duality. This primal-dual framework allows us to demonstrate the existence and uniqueness of optimal maps for strictly convex costs, culminating in Brenier's Theorem in \(\mathbb{R}^d\). Finally, we resolve the supremal (\(L^\infty\)) Monge optimal transport problem, rigorously proving that a secondary variational problem selects a unique optimal solution induced by a transport map.	
 </div>
 
 Within this project, I'm thankful for the mentorship and support from:
