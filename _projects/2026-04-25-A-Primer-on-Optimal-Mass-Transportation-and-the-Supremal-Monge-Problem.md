@@ -34,7 +34,7 @@ Within this project, I'm thankful for the mentorship and support from:
 Below here are the archives of miscellaneous items. It will be updated as time goes on!
 * **Update 2026/04/25**: First public version of the manuscript. Feedbacks are welcome!
 * **Update 2026/04/29**: Added motivation to the Monge Problem in page 1 with an illustration (now [67](https://en.wikipedia.org/wiki/6-7) pages!), added bold on new definitions, fixed slight grammar error, added a remark for another notation of pushforward measure after we defined it, optimized filed size by compressing the scanned preface page, slight overhaul on abstract.
-* **Update 2026/05/02**: Added an additional remark suggesting the interpretation of the consideration of dual problem in the notes and uploaded a downloadable abstract for the seminar in this site.
+* **Update 2026/05/02**: Added an additional remark suggesting the interpretation of the consideration of dual problem in the notes, slight adjustment on abstract, and uploaded a downloadable abstract for the seminar in this site.
 
 <img src='/assets/images/20260405_Proof_of_Signature.jpeg' style="width:100%; display:block; margin:0 0 1rem 0;">
 Proof of Alessio Figalli signing this report. Credits: Jacopo Lisciandra.
