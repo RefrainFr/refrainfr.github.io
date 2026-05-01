@@ -1,10 +1,6 @@
 ---
 title: "Seminar Activity Project: A Primer on Optimal Mass Transportation and the Supremal Monge Problem (English)"
-<<<<<<< HEAD
 excerpt: "Download directly from [here [version 20260502]](http://refrainfr.github.io/files/A_Primer_on_Optimal_Mass_Transportation_and_the_Supremal_Monge_Problem_v1.4.pdf). Presentation slide coming soon!"
-=======
-excerpt: "Download directly from [here](http://refrainfr.github.io/files/A_Primer_on_Optimal_Mass_Transportation_and_the_Supremal_Monge_Problem_v1.3.pdf). Presentation slide coming soon!"
->>>>>>> 1ac01f26467c25535164b60d96be9d0e1d77e045
 collection: projects
 date: 2026-04-25
 description: "My most recent draft for my Seminar Activity course has been updated! It concerned the basic notions of optimal transport. The reader is supposed to have been familiar with measure theory and some convex analysis."
