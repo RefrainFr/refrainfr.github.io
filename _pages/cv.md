@@ -24,7 +24,7 @@ The .pdf version of my CV can be accessed [here](https://refrainfr.github.io/fil
 _Yogyakarta, Indonesia | Aug 2021 – Jan 2025_
 
 - **GPA**: 4.0/4.0  
-- **Thesis Supervisor**: [Hadrian Andradi, Ph.D.](https://acadstaff.ugm.ac.id/andra)  
+- **Thesis Supervisor**: [Hadrian Andradi](https://acadstaff.ugm.ac.id/andra)  
 - **Thesis Topic**: [Essential and Density Topologies on Continuous Domains](https://etd.repository.ugm.ac.id/penelitian/detail/249432) [[Abstract](https://etd.repository.ugm.ac.id/home/detail_pencarian_downloadfiles/1461103)] [[Presentation Slides](https://refrainfr.github.io/files/TA2_Presentasi_Orlando_Ferrari.pdf)]
 
 **University of Padova**, Laurea Magistrale in Mathematics (M.S.)  
@@ -108,8 +108,8 @@ _May 2022 – Jul 2022_
 - **Math Assistant Jury**, Indonesia's National Science Olympiad 2024, the largest science competition for senior high school students in Indonesia. (Aug 2024)
 - **Recreational Math Instructor & Composting Model Developer**, UGM Community Service in Sleman villages (Jul–Aug 2024)  
 - **Technical Assistant**, UGM Outreach on EdTech Use in Math for Kulon Progo Junior High Teachers (Aug 2022)  
-- Composed [**Unofficial ONMIPA 2024 Solutions**](https://drive.google.com/drive/folders/1VRVInAxXdwKjXl0Ka1--uCeefciw6BeI?usp=sharing)  
-- Composed [**Concise Algebraic Note for UGM Contingent**](https://drive.google.com/file/d/1_dtOW-Oa0qH44YokdCKbzrY3zwV4415f/view?usp=sharing)
+- Composed [**Unofficial ONMIPA 2024-2025 Solutions**](https://refrainfr.github.io/projects/). 
+- Composed [**Concise Algebraic Note for UGM Contingent**](https://drive.google.com/file/d/1_dtOW-Oa0qH44YokdCKbzrY3zwV4415f/view?usp=sharing).
 
 ---
 
