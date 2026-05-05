@@ -96,16 +96,15 @@ _May 2022 – Jul 2022_
 - **Scholarship Recipient**, Italian Ministry of Foreign Affairs and International Cooperation (MAECI) Scholarship to fund M1 study at the University of Padova. (2025-2026)
 - **Scholarship Recipient**, Dato' Low Tuck Kwong Activist Category. (2024)
 - **Outstanding Student Award**, awarding night for outstanding achievements at Gadjah Mada University. (2023)
-- [**Second Prize**](https://www.imc-math.org.uk/?act=results&by=sum&year=2023), 30th International Mathematics Competition for University Students, Blagoevgrad, Bulgaria. (2023)
-- **Gold Medal & Absolute Winner**, National Olympiad of Mathematics and Natural Sciences (ONMIPA), Bandung (2023)  
-- **First Place**, Mathematics ITS Calculus Competition, Surabaya, Indonesia. (2023)
-- **Gold Medal & Best Presenter**, Indonesia Mathematical Analysis Community Calculus Paper Competition, Solo, Indonesia. (2023)
-- **Bronze Medal**, National Olympiad of Mathematics and Natural Sciences (ONMIPA), Malang, Indonesia. (2022)
+- [**Second Prize**](https://www.imc-math.org.uk/?act=results&by=sum&year=2023), 30th International Mathematics Competition for University Students, Bulgaria. (2023)
+- **Gold Medal & Absolute Winner**, National Olympiad of Mathematics and Natural Sciences (ONMIPA), Indonesia (2023)  
+- **First Place**, Mathematics ITS Calculus Competition, Indonesia. (2023)
+- **Gold Medal & Best Presenter**, Indonesia Mathematical Analysis Community Calculus Paper Competition, Indonesia. (2023)
 
 ---
 
 ## Other Mathematical Projects and Outreach
-
+- Presented **seminar activity project**: ["A Primer on Optimal Mass Transportation and the Supremal Monge Problem"](https://refrainfr.github.io/projects/2026-04-25-A-Primer-on-Optimal-Mass-Transportation-and-the-Supremal-Monge-Problem/), under supervision of [Elio Marconi](https://sites.google.com/view/eliomarconi/). (May 2026)
 - **Math Assistant Jury**, Indonesia's National Science Olympiad 2024, the largest science competition for senior high school students in Indonesia. (Aug 2024)
 - **Recreational Math Instructor & Composting Model Developer**, UGM Community Service in Sleman villages (Jul–Aug 2024)  
 - **Technical Assistant**, UGM Outreach on EdTech Use in Math for Kulon Progo Junior High Teachers (Aug 2022)  

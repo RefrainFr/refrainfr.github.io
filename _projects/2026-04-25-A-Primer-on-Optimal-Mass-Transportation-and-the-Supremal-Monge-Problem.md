@@ -1,6 +1,6 @@
 ---
 title: "Seminar Activity Project: A Primer on Optimal Mass Transportation and the Supremal Monge Problem (English)"
-excerpt: "Download directly from [here [version 20260502]](http://refrainfr.github.io/files/A_Primer_on_Optimal_Mass_Transportation_and_the_Supremal_Monge_Problem_v1.4.pdf). Presentation slide coming soon!"
+excerpt: "Download directly from [here [version 20260505]](http://refrainfr.github.io/files/A_Primer_on_Optimal_Mass_Transportation_and_the_Supremal_Monge_Problem_v1.5.pdf). Presentation slide coming soon!"
 collection: projects
 date: 2026-04-25
 description: "My most recent draft for my Seminar Activity course has been updated! It concerned the basic notions of optimal transport. The reader is supposed to have been familiar with measure theory and some convex analysis."
@@ -10,7 +10,7 @@ cover_image: "https://refrainfr.github.io/assets/images/20260405_high_cortisol_L
 <img src='/assets/images/20260405_high_cortisol_L_infinity_solution.jpg' style="width:100%; display:block; margin:0 0 1rem 0;">
 <div>Featuring a high cortisol graph for solving Monge problem in the \(L^\infty\) case.</div>
 
-Download the notes directly from [here [version 20260502]](http://refrainfr.github.io/files/A_Primer_on_Optimal_Mass_Transportation_and_the_Supremal_Monge_Problem_v1.4.pdf).
+Download the notes directly from [here [version 20260506]](http://refrainfr.github.io/files/A_Primer_on_Optimal_Mass_Transportation_and_the_Supremal_Monge_Problem_v1.5.pdf).
 
 Presentation slide coming soon!
 
@@ -31,6 +31,7 @@ Below here are the archives of miscellaneous items. It will be updated as time g
 * **Update 2026/04/25**: First public version of the manuscript. Feedbacks are welcome!
 * **Update 2026/04/29**: Added motivation to the Monge Problem in page 1 with an illustration (now [67](https://en.wikipedia.org/wiki/6-7) pages!), added bold on new definitions, fixed slight grammar error, added a remark for another notation of pushforward measure after we defined it, optimized filed size by compressing the scanned preface page, slight overhaul on abstract.
 * **Update 2026/05/02**: Added an additional remark suggesting the interpretation of the consideration of dual problem in the notes, slight adjustment on abstract, and uploaded a downloadable abstract for the seminar in this site.
+* **Update 2026/05/05**: Fixed errors within the assumption for weak and weak* topologies on finite measure space where weak topology can simply be defined on general metric (even topological) spaces and weak* can be defined with an additional assumption of locally compact. I made the assumption too strong as I put separability as well. Removed the assumption of separability for now-named Riesz-Markov-Kakutani Representation Theorem (Theorem 2.1.5). Added a remark on Definition 2.1.6 when X is convex, we can instead view M(X) as the dual of C(X) to have coherency with subsequent contents. Additionally, I adjusted some non-fatal typos on some theorems and adjusted the positioning of Figure 2.1 to be more convenient.
 
 <img src='/assets/images/20260405_Proof_of_Signature.jpeg' style="width:100%; display:block; margin:0 0 1rem 0;">
 Proof of Alessio Figalli signing this report. Credits: Jacopo Lisciandra.
