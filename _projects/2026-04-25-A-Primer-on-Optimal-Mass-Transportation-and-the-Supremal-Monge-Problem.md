@@ -10,7 +10,7 @@ cover_image: "https://refrainfr.github.io/assets/images/20260405_high_cortisol_L
 <img src='/assets/images/20260405_high_cortisol_L_infinity_solution.jpg' style="width:100%; display:block; margin:0 0 1rem 0;">
 <div>Featuring a high cortisol graph for solving Monge problem in the \(L^\infty\) case.</div>
 
-Download the notes directly from [here [version 20260506]](http://refrainfr.github.io/files/A_Primer_on_Optimal_Mass_Transportation_and_the_Supremal_Monge_Problem_v1.5.pdf).
+Download the notes directly from [here [version 20260505]](http://refrainfr.github.io/files/A_Primer_on_Optimal_Mass_Transportation_and_the_Supremal_Monge_Problem_v1.5.pdf).
 
 Presentation slide coming soon!
 
