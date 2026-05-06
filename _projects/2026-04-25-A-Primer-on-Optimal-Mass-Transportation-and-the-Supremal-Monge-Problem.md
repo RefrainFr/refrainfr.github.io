@@ -14,9 +14,10 @@ Download the notes directly from [here [version 20260505]](http://refrainfr.gith
 
 Presentation slide can be downloaded [here](http://refrainfr.github.io/files/20260506-Seminar_Slides-Orlando_Ferrari.pdf).
 
-Recording of the presentation can be accessed [through this link](https://youtu.be/h5MhjCTdL1s?is=SAcQUc9qzWPVIKl0).
-
 Submitted abstract for the presentation can be downloaded [here](http://refrainfr.github.io/files/20260506-Orlando_Ferrari-Seminar_Abstract.pdf). I suggest the reader to check lists of UNIPD master students' seminars in [the following link](https://corsi.math.unipd.it/seminariostudenti/).
+
+Recording of the presentation can be accessed [through this link](https://youtu.be/h5MhjCTdL1s?is=SAcQUc9qzWPVIKl0).
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5MhjCTdL1s?si=RgK4i2QjBnekfNwr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <div style="text-align: justify; margin-bottom: 1rem;">
 This seminar explores foundational concepts and central existence results in optimal transport theory. We transition from the intuitive but restrictive Monge problem to the Kantorovich relaxation, leveraging direct methods of calculus of variations to guarantee the existence of optimal plans. By constructing the dual problem and applying tools from convex analysis—specifically \(c\)-transforms and \(c\)-cyclical monotonicity—we establish strong duality. This primal-dual framework allows us to demonstrate the existence and uniqueness of optimal maps for strictly convex costs, culminating in Brenier's Theorem in \(\mathbb{R}^d\). Finally, we resolve the supremal (\(L^\infty\)) Monge optimal transport problem, rigorously proving that a secondary variational problem selects a unique optimal solution induced by a transport map.	
