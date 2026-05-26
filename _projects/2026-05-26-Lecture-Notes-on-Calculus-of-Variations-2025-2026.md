@@ -10,6 +10,7 @@ cover_image: "https://refrainfr.github.io/assets/images/20260526_Subdomains.jpg"
 <img src='/assets/images/20260526_Subdomains.jpg' style="width:100%; display:block; margin:0 0 1rem 0;">
 <div>Construction of the nested subdomains for De Giorgi averaging method.</div>
 
+
 Download the notes directly from [here [version 20260526], early version](http://refrainfr.github.io/files/Lecture_Notes_on_Calculus_of_Variations_2025-2026.pdf).
 
 Handwritten notes from lecture 23 and 24 regarding the Plateau problem can be downloaded directly from [here [version 20260526]](http://refrainfr.github.io/files/Lecture23-24-Calculus-of-Variations-2025-2026.pdf).
