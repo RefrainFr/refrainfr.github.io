@@ -1,6 +1,6 @@
 ---
 title: "Lecture Notes on Calculus of Variations 2025-2026"
-excerpt: "Download directly from [here [version 20260526], early version](http://refrainfr.github.io/files/Lecture_Notes_on_Calculus_of_Variations_2025-2026.pdf)."
+excerpt: "Download directly from [here [version 20260610](http://refrainfr.github.io/files/Lecture_Notes_on_Calculus_of_Variations_2025-2026.pdf)."
 collection: projects
 date: 2026-05-26
 description: "My lecture notes on the course of Calculus of Variations given by [Prof. Guido De Philippis](https://cvgmt.sns.it/person/22/)."
@@ -11,7 +11,7 @@ cover_image: "https://refrainfr.github.io/assets/images/20260526_Subdomains.jpg"
 <div>Construction of the nested subdomains for De Giorgi averaging method.</div>
 
 
-Download the notes directly from [here [version 20260526], early version](http://refrainfr.github.io/files/Lecture_Notes_on_Calculus_of_Variations_2025-2026.pdf).
+Download the notes directly from [here [version 20260610](http://refrainfr.github.io/files/Lecture_Notes_on_Calculus_of_Variations_2025-2026.pdf). Updated solutions to two exercises, added minor contents, fixed found typos.
 
 Handwritten notes from lecture 23 and 24 regarding the Plateau problem can be downloaded directly from [here [version 20260526]](http://refrainfr.github.io/files/Lecture23-24-Calculus-of-Variations-2025-2026.pdf).
 
