@@ -40,8 +40,7 @@ The turning point was during the 2023 IMC in Blagoevgrad, Bulgaria. I ran into a
 </p>
 
 > **IMC 2023, Problem 7**<br>
-> Let \(V\) be the set of all continuous functions \(f:[0,1]\to\mathbb{R}\), differentiable on \((0,1)\), with the property that \(f(0)=0\) and \(f(1)=1\). Determine all \(\alpha\in\mathbb{R}\) such that for every \(f\in V\), there exists some \(\xi\in(0,1)\) such that
-> $$f(\xi)+\alpha=f'(\xi).$$
+> Let $$V$$ be the set of all continuous functions $$f:[0,1]\to\mathbb{R}$$, differentiable on $$(0,1)$$, with the property that $$f(0)=0$$ and $$f(1)=1$$. Determine all $$\alpha\in\mathbb{R}$$ such that for every $$f\in V$$, there exists some $$\xi\in(0,1)$$ such that $$f(\xi)+\alpha=f'(\xi).$$
 
 <p align="justify">  
 I was completely stuck on this problem until I forced myself to take a radical approach. Instead of just playing with the given conditions abstractly, I tried to directly solve the differential equation \(f(x)+\alpha=f'(x)\). Getting my hands dirty like that gave me a simple half-page proof. When I finally dropped the "abstract nonsense" that I was so comfortable with, the insight just clicked.
