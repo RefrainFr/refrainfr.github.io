@@ -1,5 +1,5 @@
 ---
-title: "Being Comfortable with I am Not"
+title: "Being Comfortable with what I am Not"
 date: 2026-07-24
 permalink: /posts/2026/07/being-comfortable-with-what-i-am-not/
 tags:
