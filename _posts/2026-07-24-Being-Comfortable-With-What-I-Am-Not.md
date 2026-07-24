@@ -40,11 +40,11 @@ The turning point was during the 2023 IMC in Blagoevgrad, Bulgaria. I ran into a
 </p>
 
 > **IMC 2023, Problem 7**<br>
-> Let $V$ be the set of all continuous functions $f:[0,1]\to\mathbb{R}$, differentiable on $(0,1)$, with the property that $f(0)=0$ and $f(1)=1$. Determine all $\alpha\in\mathbb{R}$ such that for every $f\in V$, there exists some $\xi\in(0,1)$ such that
+> Let \(V\) be the set of all continuous functions \(f:[0,1]\to\mathbb{R}\), differentiable on \((0,1)\), with the property that \(f(0)=0\) and \(f(1)=1\). Determine all \(\alpha\in\mathbb{R}\) such that for every \(f\in V\), there exists some \(\xi\in(0,1)\) such that
 > $$f(\xi)+\alpha=f'(\xi).$$
 
 <p align="justify">  
-I was completely stuck on this problem until I forced myself to take a radical approach. Instead of just playing with the given conditions abstractly, I tried to directly solve the differential equation $f(x)+\alpha=f'(x)$. Getting my hands dirty like that gave me a simple half-page proof. When I finally dropped the "abstract nonsense" that I was so comfortable with, the insight just clicked.
+I was completely stuck on this problem until I forced myself to take a radical approach. Instead of just playing with the given conditions abstractly, I tried to directly solve the differential equation \(f(x)+\alpha=f'(x)\). Getting my hands dirty like that gave me a simple half-page proof. When I finally dropped the "abstract nonsense" that I was so comfortable with, the insight just clicked.
 </p>
 <p align="justify">  
 It still surprises me how much I've improved after just a year of rigorous (and occasionally traumatic) training. I openly admit that I was terrible at handling analytic inequalities, but after spending a lot of time figuring out why they actually work, I can now genuinely appreciate basic inequalities like:
@@ -66,25 +66,25 @@ $$ \int |fg| \leq \left( \int |f|^p \right)^{\frac{1}{p}} \left( \int |g|^q \rig
 </p>
 
 <p align="justify">  
-Back in my early days, I couldn't understand why anyone would put an arbitrary $\varepsilon>0$ into Young's inequality. But now? I literally cannot unsee Young's inequality with $\varepsilon$ whenever I look at a bounding problem involving products:
+Back in my early days, I couldn't understand why anyone would put an arbitrary \(\varepsilon>0\) into Young's inequality. But now? I literally cannot unsee Young's inequality with \(\varepsilon\) whenever I look at a bounding problem involving products:
 </p>
 
 $$ \int |fg| \leq \frac{\varepsilon}{2} \int f^2 + \frac{1}{2\varepsilon} \int g^2 $$
 
 <p align="justify">  
-That $\varepsilon$ isn't meant to be scary at all! It acts as a placeholder so you can easily absorb terms into one another. One of the best times to use Young's inequality is when finding bounds for the solution to an elliptic PDE, like:
+That \(\varepsilon\) isn't meant to be scary at all! It acts as a placeholder so you can easily absorb terms into one another. One of the best times to use Young's inequality is when finding bounds for the solution to an elliptic PDE, like:
 </p>
 
 $$ -\operatorname{div}(A\nabla u) = 0 $$
 
 <p align="justify">  
-By multiplying by a test function that includes a smooth cutoff $\eta$ and applying Young's inequality with $\varepsilon$, we can absorb the gradient terms to get the <b>Caccioppoli inequality</b>:
+By multiplying by a test function that includes a smooth cutoff \(\eta\) and applying Young's inequality with \(\varepsilon\), we can absorb the gradient terms to get the <b>Caccioppoli inequality</b>:
 </p>
 
 $$ \int_{\Omega} \eta^2 |\nabla u|^2 \, dx \leq C \int_{\Omega} |\nabla \eta|^2 |u|^2 \, dx $$
 
 <p align="justify">  
-This inequality is our way of controlling the gradient (the derivative) using just the integral of the solution itself. From there, we can prove even more—to the point of showing that the weak solution $u$ is actually a smooth, nice function!
+This inequality is our way of controlling the gradient (the derivative) using just the integral of the solution itself. From there, we can prove even more, to the point of showing that the weak solution \(u\) is actually a smooth, nice function!
 </p>
 <p align="justify">  
 The beauty of the very things that once made me so uncomfortable suddenly made perfect sense.
