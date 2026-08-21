@@ -10,7 +10,9 @@ redirect_from:
 ---
 # I'm Orlando Ferrari! (Yes, Ferrari is my last name)
 
-<img src='/images/Wisudapic_2025.jpg'>
+<img src='/images/wm_caricature.png'>
+My caricature, commissioned from [pawple.neko](https://vgen.co/PawpleNeko)!
+
 A freshman dual-degree Master's math student at the University of Padova and Dauphine-PSL University for the [MAPPA curriculum](https://mappa.math.unipd.it). Currently has research interests in analysis, particularly in **differential equations, functional analysis, calculus of variations, and measure theory**. In addition to my mathematical interest, I have over four years of experience in mathematics education as a tutor.
 
 {% assign all_content = site.posts %}
@@ -78,7 +80,7 @@ Prior to my undergraduate years until my 3rd year for my Bachelor's degree, I am
 
 Starting in my final year (7th semester) as an undergraduate student, I am pursuing other means to love mathematics by striving for its beauty. During the work of my thesis, I was captivated by how we can apply mathematical results from one field--which is topology--to another field--that is, order structure--which produced an interesting problem, which was the content of [my thesis](https://etd.repository.ugm.ac.id/penelitian/detail/249432). Hence, I am more into learning various topics that somehow may unify to a spectacular result (hopefully).
 
-
+<img src='/images/Wisudapic_2025.jpg'>
 
 
 
