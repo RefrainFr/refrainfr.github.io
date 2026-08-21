@@ -16,7 +16,7 @@ Beside my mathematical interest, I love spending my time enjoying Japanese popul
 - My mom liked [Orlando Bloom](https://en.wikipedia.org/wiki/Orlando_Bloom) at the time. It was given so I can be famous like him in the future.
   
 ### Why the last name Ferrari?
-- My last name was given as a means for me to be "quick", as it is the image of the brand [Ferrari](https://www.ferrari.com/) itself. Moreover, at the time I was born, [Michael Schumacher](https://en.wikipedia.org/wiki/Michael_Schumacher) dominated F1 grid with [Scuderia Ferrari](https://en.wikipedia.org/wiki/Scuderia_Ferrari)
+- My last name was given as a means for me to be "quick", as it is the image of the brand [Ferrari](https://www.ferrari.com/) itself. Moreover, at the time I was born, [Michael Schumacher](https://en.wikipedia.org/wiki/Michael_Schumacher) dominated F1 grid with [Scuderia Ferrari](https://en.wikipedia.org/wiki/Scuderia_Ferrari).
   
 ### Do you like Ferrari, the brand [Ferrari](https://www.ferrari.com/)?
 - Yes, I do. I have started (since 2026) to follow some automotives and sports related to Ferrari (F1 and others). Forza Ferrari!
